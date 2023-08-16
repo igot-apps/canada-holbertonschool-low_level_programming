@@ -1,6 +1,6 @@
 #include "holberton.h"
 /**
- * print_alphabet - prints the english alphabet from a-z.
+ * print_alphabet - prints the-englishalphabet from a-z.
  * Return: Nothing.
  */
 void print_alphabet(void)
