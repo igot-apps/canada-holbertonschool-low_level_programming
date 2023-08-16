@@ -1,6 +1,6 @@
 #include "holberton.h"
 /**
- * jack_bauer - printsformat: HH:MM
+ * jack_bauer - rintsforma: HH:MM
  * Return: thenumbers.
  */
 void jack_bauer(void)
