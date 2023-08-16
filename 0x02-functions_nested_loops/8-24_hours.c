@@ -1,7 +1,7 @@
 #include "holberton.h"
 /**
- * jack_bauer - prints time table in this format: HH:MM
- * Return: the sum of two numbers.
+ * jack_bauer - printsformat: HH:MM
+ * Return: thenumbers.
  */
 void jack_bauer(void)
 {
