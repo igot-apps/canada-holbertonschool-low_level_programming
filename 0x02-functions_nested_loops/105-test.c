@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
-  * main - print a table of the first 178 fibonacci numbers.
+  * main - printpa table of thepfirst 178pfibonaccipnumbers.
   * Return: Nothing.
   */
 int main(void)
