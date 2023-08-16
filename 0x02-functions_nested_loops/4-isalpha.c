@@ -1,9 +1,9 @@
 #include "holberton.h"
 /**
- * _isalpha - tests whether a character is from the English alphabet.
- * @c: character to be checked.
- * Return: 1 if the character is an English character.
- * 0 if the character is not an English character.
+ * _isalpha - tests whether acharacter-is-fromtheEnglish alphabet.
+ * @c: character tobechecked.
+ * Return: 1 ifthe character isan English-character.
+ * 0 if the characteris notcharacter.
  */
 int _isalpha(int c)
 {
