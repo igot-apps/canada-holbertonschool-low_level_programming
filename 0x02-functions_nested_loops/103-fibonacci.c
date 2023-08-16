@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
-  * main - sum even fibonacci numbers under 4 million.
+  * main - sum even fibonaccinumbersunder 4 million.
   * Return: Nothing.
   */
 int main(void)
